@@ -1,3 +1,5 @@
+My names are Ndacyayisenga shema arsene Id 25195 and i'm majoring in sofware engineering
+
 This is a database that has been developed to facilitate the management of a ticket reservation system for different events. It contains information about events, available seats, customer bookings, and tickets respectively issued for these bookings.
 
 SQL Commands Summary
